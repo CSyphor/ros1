@@ -1,0 +1,13 @@
+float32 xp
+float32 yp
+float32 zp
+float32 xq
+float32 yq
+float32 zq
+---
+string result
+---
+float32 cx
+float32 cy
+float32 cz
+string status

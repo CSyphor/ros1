@@ -1,0 +1,7 @@
+float32 x
+float32 y
+---
+string result
+---
+float32 current_x
+float32 current_y
